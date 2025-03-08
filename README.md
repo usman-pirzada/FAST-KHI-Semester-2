@@ -30,15 +30,20 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 - [Course-wise guide](#-course-wise-guide)
   | #  | Course Code | Short  | Name                                                         | Type      | Credit Hours |
   |----|------------|--------|--------------------------------------------------------------|----------|--------------|
-  | 1  | CS2003     | OOP    | [Object Oriented Programming](#-object-oriented-progamming)  | Core     | 3+1          |
-  | 2  | MT2002     | MVC    | [Multivariable Calculus](#-multivariable-calculus)           | Core     | 3            |
-  | 3  | EE2004     | DLD    | [Digital Logic & Design](#-digital-logic--design)            | Core     | 3+1          |
-  | 4  | SS2007     | ICP    | [Ideology & Constitution of Pakistan](#-ideology--constitution-of-pakistan) | Core | 2 |
+  | 1  | CS1004     | OOP    | [Object Oriented Programming](#-object-oriented-progamming)  | Core     | 3+1          |
+  | 2  | MT1008     | MVC    | [Multivariable Calculus](#-multivariable-calculus)           | Core     | 3            |
+  | 3  | EE1005     | DLD    | [Digital Logic & Design](#-digital-logic--design)            | Core     | 3+1          |
+  | 4  | SS1013     | ICP    | [Ideology & Constitution of Pakistan](#-ideology--constitution-of-pakistan) | Core | 2 |
   | 5*  | SS1014     | UOQ     | Understanding Holy Quran                  | Non-Credit     | 1          |
   | 6*  | SS1018     | UOS     | Understanding Sirat-Un-Nabi (PBUH)                   | Non-Credit     | 1          |
-  |    |            |        | **Total Credit Hours:**                                     |          | **18**       |
+  <table>
+  <tr>
+    <td colspan="5" style="text-align:right;"><b>Total Credit Hours:</b></td>
+    <td><b>18</b></td>
+  </tr>
+  </table>
+  <!-- |    |            |        | **Total Credit Hours:**                                     |          | **18**       | -->
 <i>Note</i>: "Understanding Holy Quran" & "Understanding Sirat-Un-Nabi (PBUH)" were introduced as **non-credit courses** (no exams/grading) from Spring'2024 according to HEC guidelines.
-
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
@@ -98,6 +103,7 @@ pata chale toh mujhe bhi bata dena pls
 - []()
 
 🔗 Projects:
+- [SLOW-NUCES](https://github.com/abdullahazharkhan/SLOW-NUCES) - OOP project by Abdullah Azhar Khan.
 - [Cafe-Digital-System](https://github.com/BilalAli6/Cafe-Digital-System-OOP) - OOP project by Bilal Ali (FAST ISB).
 
 🔗 Resources:
