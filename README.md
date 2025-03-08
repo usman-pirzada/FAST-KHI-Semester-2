@@ -28,13 +28,17 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
-  <ul>
-  <li><a href="#-object-oriented-progamming">Object Oriented Programming (Theory+Lab)</li>
-  <li><a href="#-multivariable-calculus">Multivariable Calculus</li>
-  <li><a href="#-digital-logic--design">Digital Logic & Design (Theory+Lab)</li>
-  <li><a href="#-ideology--constitution-of-pakistan">Ideology & Constitution of Pakistan</li>
-  <li><a href="#-expository-writing">Expository Writing (Theory+Lab)</li>
-  </ul>
+  | #  | Course Code | Short  | Name                                                         | Type      | Credit Hours |
+  |----|------------|--------|--------------------------------------------------------------|----------|--------------|
+  | 1  | CS2003     | OOP    | [Object Oriented Programming](#-object-oriented-progamming)  | Core     | 3+1          |
+  | 2  | MT2002     | MVC    | [Multivariable Calculus](#-multivariable-calculus)           | Core     | 3            |
+  | 3  | EE2004     | DLD    | [Digital Logic & Design](#-digital-logic--design)            | Core     | 3+1          |
+  | 4  | SS2007     | ICP    | [Ideology & Constitution of Pakistan](#-ideology--constitution-of-pakistan) | Core | 2 |
+  | 5*  | SS1014     | UOQ     | Understanding Holy Quran                  | Non-Credit     | 1          |
+  | 6*  | SS1018     | UOS     | Understanding Sirat-Un-Nabi (PBUH)                   | Non-Credit     | 1          |
+  |    |            |        | **Total Credit Hours:**                                     |          | **18**       |
+<i>Note</i>: "Understanding Holy Quran" & "Understanding Sirat-Un-Nabi (PBUH)" were introduced as **non-credit courses** (no exams/grading) from Spring'2024 according to HEC guidelines.
+
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
@@ -97,6 +101,7 @@ pata chale toh mujhe bhi bata dena pls
 - [Cafe-Digital-System](https://github.com/BilalAli6/Cafe-Digital-System-OOP) - OOP project by Bilal Ali (FAST ISB).
 
 🔗 Resources:
+- [OOP Repository by Ms. Sumaiyah Zahid](https://github.com/SumaiyahZahid/Object-Oriented-Programming) - a well-managed repository covering object-oriented programming based on Spring'2025.
 - [studocu - Object-Oriented Programming (CS1004)](https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/object-oriented-programming/5064689) - Explore miscellaneous resources from all FAST campuses.
 
 
@@ -164,6 +169,7 @@ Feeling this repository isn't enough? 😩 Here are all links to repositories an
 - [Fast-Material-CS-SE (2nd Sem)](https://github.com/Syed007Hassan/Fast-Material-CS-SE/tree/main/2ND%20SEMESTER) - by Syed Hassan
 - [2nd-Semester-Material-FAST-NU](https://github.com/UmairKhan13/2nd-Semester-Material-FAST-NU) - by Umair Khan
 - [FAST Resources (2nd Sem)](https://github.com/codewith-usama/FAST-Resources/tree/main/2nd%20Semester) - by codewith-Usama
+- [Object Oriented Programming](https://github.com/SumaiyahZahid/Object-Oriented-Programming) - by Ms. Sumaiyah Zahid
 - [PastPaper-FAST-NUCES](https://github.com/codewith-usama/PastPaper-FAST-NUCES) - by codewith-Usama
 - [FAST-Resources (Semester 2)](https://github.com/ammansoomro/FAST-Resources/tree/main/Semester%202) - by Amman Soomro
 - [Second-Semester](https://github.com/BilalAhmed-358/Second-Semester) - by Bilal Ahmed
