@@ -28,21 +28,69 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 - [Time management](#-time-management)
 
 - [Course-wise guide](#-course-wise-guide)
-  | #  | Course Code | Short  | Name                                                         | Type      | Credit Hours |
-  |----|------------|--------|--------------------------------------------------------------|----------|--------------|
-  | 1  | CS1004     | OOP    | [Object Oriented Programming](#-object-oriented-progamming)  | Core     | 3+1          |
-  | 2  | MT1008     | MVC    | [Multivariable Calculus](#-multivariable-calculus)           | Core     | 3            |
-  | 3  | EE1005     | DLD    | [Digital Logic & Design](#-digital-logic--design)            | Core     | 3+1          |
-  | 4  | SS1013     | ICP    | [Ideology & Constitution of Pakistan](#-ideology--constitution-of-pakistan) | Core | 2 |
-  | 5*  | SS1014     | UOQ     | Understanding Holy Quran                  | Non-Credit     | 1          |
-  | 6*  | SS1018     | UOS     | Understanding Sirat-Un-Nabi (PBUH)                   | Non-Credit     | 1          |
   <table>
+  <tr>
+    <th>#</th>
+    <th>Course Code</th>
+    <th>Short</th>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Credit Hours</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>CS1004</td>
+    <td>OOP</td>
+    <td><a href="#-object-oriented-progamming">Object Oriented Programming</a></td>
+    <td>Core</td>
+    <td>3+1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>MT1008</td>
+    <td>MVC</td>
+    <td><a href="#-multivariable-calculus">Multivariable Calculus</a></td>
+    <td>Core</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>EE1005</td>
+    <td>DLD</td>
+    <td><a href="#-digital-logic--design">Digital Logic & Design</a></td>
+    <td>Core</td>
+    <td>3+1</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>SS1013</td>
+    <td>ICP</td>
+    <td><a href="#-ideology--constitution-of-pakistan">Ideology & Constitution of Pakistan</a></td>
+    <td>Core</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>SS1014</td>
+    <td>UOQ</td>
+    <td>Understanding Holy Quran</td>
+    <td>Non-Credit</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>SS1018</td>
+    <td>UOS</td>
+    <td>Understanding Sirat-Un-Nabi (PBUH)</td>
+    <td>Non-Credit</td>
+    <td>1</td>
+  </tr>
   <tr>
     <td colspan="5" style="text-align:right;"><b>Total Credit Hours:</b></td>
     <td><b>18</b></td>
   </tr>
-  </table>
-  <!-- |    |            |        | **Total Credit Hours:**                                     |          | **18**       | -->
+</table>
+
 <i>Note</i>: "Understanding Holy Quran" & "Understanding Sirat-Un-Nabi (PBUH)" were introduced as **non-credit courses** (no exams/grading) from Spring'2024 according to HEC guidelines.
 
 ## 🔗 Useful Websites you should know!
