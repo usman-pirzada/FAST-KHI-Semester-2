@@ -91,7 +91,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
   </tr>
 </table>
 
-<i>Note</i>: "Understanding Holy Quran" & "Understanding Sirat-Un-Nabi (PBUH)" were introduced as **non-credit courses** (no exams/grading) from Spring'2024 according to HEC guidelines.
+<i>Note</i>: "Understanding Holy Quran" & "Understanding Sirat-Un-Nabi (PBUH)" were introduced as **non-credit courses** (no exams/grading) from Spring'2024 according to HEC guidelines. "Ideology & Constitution of Pakistan" was interchanged with "[Islamic Studies (IRS)](https://github.com/MuxammilSidd/FAST-KHI-Semester-1/tree/main/Islamic%20Studies)" for BS(CS) from Fall'24. Access IRS content from [FAST-KHI-Semester-1](https://github.com/MuxammilSidd/FAST-KHI-Semester-1) repository!
 
 ## 🔗 Useful Websites you should know!
 - <a href="https://www.wondar.site/" style="text-decoration:none; display:inline-block; margin-top: 12px;">
@@ -156,6 +156,7 @@ pata chale toh mujhe bhi bata dena pls
 
 🔗 Resources:
 - [OOP Repository by Ms. Sumaiyah Zahid](https://github.com/SumaiyahZahid/Object-Oriented-Programming) - a well-managed repository covering object-oriented programming based on Spring'2025.
+- [OOP Repository by Ms. Abeeha Sattar](https://github.com/Abeeha-Sattar/Object-Oriented-Programming) - course repository maintained in Spring'25.
 - [studocu - Object-Oriented Programming (CS1004)](https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/object-oriented-programming/5064689) - Explore miscellaneous resources from all FAST campuses.
 
 
