@@ -173,6 +173,8 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Resources:
 - [studocu - Multivariable Calculus (MT-1007)](https://www.studocu.com/row/course/national-university-of-computer-and-emerging-sciences/multivariable-calculus/6927817) - Explore miscellaneous resources from all FAST campuses.
 
+- [Supporting Lecture For Conic Section Graphs](https://drive.google.com/file/d/1rhW0cR8ZorUtXXkiDIOT-mF9eoDv_hxA/view?usp=sharing) - by Ms. Alishba Tariq.
+
 🔗 Google Drives:
 
 ---
